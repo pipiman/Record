@@ -8,3 +8,4 @@ To record the fatastic thought of my notes,or code,or some concept,or just somet
 ## Mode
 + name consiste of the "触发点" + "time"
 + the mode(格式) of name can be changed 
++ Everyday have a file named only bt date which mean that i want to know or do these things but can not break some inportant rutine that if you have some relax time or just need a relax, going there find some interested thing to think about or do.
